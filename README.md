@@ -1,7 +1,7 @@
 # MP Financial Interests
 ## 2010 - 2015.
 
-This data has been extracted from the UK House of Commons Register of Members' Financial Interests http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm
+CSV dataset extracted from the UK House of Commons Register of Members' Financial Interests http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm
 
 The focus of the data extraction is to retrieve the *value* of each interest. As a result, some information for the interests have been discarded.
 
