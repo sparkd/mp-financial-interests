@@ -3,7 +3,7 @@
 
 This data has been extracted from the UK House of Commons Register of Members' Financial Interests http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm
 
-The focus of the data extraction is to retrieve the *value* of each interest. As a result, some of the information describing the interests has been discarded.
+The focus of the data extraction is to retrieve the *value* of each interest. As a result, some information for the interests have been discarded.
 
 It also means some interest categories that do not provide a numeric valuation have been excluded.  These are:
 * 8 - Land and property
