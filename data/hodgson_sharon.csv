@@ -1,5 +1,4 @@
 id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
-1521,"Hodgson, Sharon",Labour,2010-11,oversees_visit,2010-01-11,1400.62,False,Donor: 1) Volunteer Services Overseas,
 1521,"Hodgson, Sharon",Labour,2012-13,sponsorship,2011-12-21,5500.0,False,Donor: CARE (Christian Action Research and Education),
 1521,"Hodgson, Sharon",Labour,2012-13,oversees_visit,2012-03-19,8000.0,False,Donor: Hong Kong Government,
 1521,"Hodgson, Sharon",Labour,2011-12,sponsorship,2011-12-21,5500.0,False,Donor: CARE (Christian Action Research and Education),
@@ -8,3 +7,4 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
  China Culture Association",
 1521,"Hodgson, Sharon",Labour,2010-11,sponsorship,2010-02-04,5000.0,False,Donor: Christian Action Research and Education (CARE),
 1521,"Hodgson, Sharon",Labour,2010-11,gift,2010-06-11,1962.0,False,Donor: Grand Central Railway Company Ltd,
+1521,"Hodgson, Sharon",Labour,2010-11,oversees_visit,2010-01-11,1400.62,False,Donor: 1) Volunteer Services Overseas,

@@ -1,9 +1,7 @@
 id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
-77,"Brazier, Julian",Conservative,2011-12,employment,2010-10-06,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £75 for completing a survey. Hours: 30 mins. (Registered 6 October 2010)
 77,"Brazier, Julian",Conservative,2014-15,employment,2014-02-06,75.0,False,"Payments from ComRes, 4 Millbank, London, SW1P 3JA:","January 2014, received £75 for completing a survey. Hours: 1 hr. 
 (Registered 6 February 2014
 )"
-77,"Brazier, Julian",Conservative,2011-12,employment,2010-10-06,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £75 for completing a survey. Hours: 30 mins. (Registered 6 October 2010)
 77,"Brazier, Julian",Conservative,2013-14,employment,2013-10-24,250.0,False,"Payments for lectures and Q & A for visiting students from European Studies. Address: c/o Rhodes College, 2000 N Parkway, Memphis, TN 38112-1690
 :","October 2013, received £250. Hours: 1 hr. (Registered 24 October 2013)"
 77,"Brazier, Julian",Conservative,2013-14,employment,2013-01-21,75.0,False,"Payments from ComRes, 4 Millbank, London, SW1P 3JA:","20 December  2012, received £75 for completing a survey. Hours: 1 hr 
@@ -19,9 +17,6 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 77,"Brazier, Julian",Conservative,2013-14,employment,2013-11-26,75.0,False,"Payments from ComRes, 4 Millbank, London, SW1P 3JA:","November 2013, received £75 for completing a survey. Hours: 1 hr. 
 (Registered 26 November 2013
 )"
-77,"Brazier, Julian",Conservative,2011-12,employment,2011-03-08,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","Received £75 for completing a survey, 10 January 2011.  Hours: 1 hr. (Registered 8 March 2011)"
-77,"Brazier, Julian",Conservative,2011-12,employment,2011-03-08,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","Received £75 for completing a survey, 15 February 2011.  Hours: 1 hr. (Registered 8 March 2011)"
-77,"Brazier, Julian",Conservative,2011-12,employment,2011-05-26,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £75 for completing a survey.  Hours: 1 hr. (Registered 26 May 2011)
 77,"Brazier, Julian",Conservative,2012-13,employment,2012-12-13,250.0,False,"October 2012, received £250 for lecture and Q & A for visiting students from European Studies. Address: c/o Rhodes College, 2000 N Parkway, Memphis, TN 38112-1690
 . Hours: 90 mins. (Registered 13 December 2012)",
 77,"Brazier, Julian",Conservative,2012-13,employment,2013-01-01,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","15 June 2012, received £75 for completing a survey. Hours: 1 hr 
@@ -51,7 +46,7 @@ SE1 2TU
 77,"Brazier, Julian",Conservative,2012-13,employment,2012-06-15,5000.0,False,"Consultant on energy saving products for Conditionaire International Ltd, Wellington House, 7-9 Church Road, Tunbridge Wells, Kent TN1 1HT. Conditionaire also heads a consortium of small companies selling energy and water saving products, including Fridgesaver, Liet Corp, Smartcool and WEMS. Paid by commission only. (£0-£5,000, estimated). (Registered 15 June 2012; updated 17 December 2012)",
 77,"Brazier, Julian",Conservative,2012-13,employment,2012-07-13,250.0,False,"28 June 2012, received £250 for article for Military History magazine from Current Publishing, Lamb House, Chiswick, London W4 2PD. Hours: 8 hrs. (Registered 13 July 2012)",
 77,"Brazier, Julian",Conservative,2012-13,employment,2012-07-13,100.0,False,"Received £100 for evening lecture to Edinburgh University Club of London, 146 Elizabeth Ave, Amersham, Bucks HP6 6RG. Hours: 3 hrs. (Registered 13 July 2012)",
-77,"Brazier, Julian",Conservative,2012-13,employment,2012-12-13,75.0,True,"December 2012, payment of £75 from Populus for participation in opinion survey. Address: 
+77,"Brazier, Julian",Conservative,2012-13,employment,2012-12-13,75.0,False,"December 2012, payment of £75 from Populus for participation in opinion survey. Address: 
 10 Northburgh Street
 , 
 London
@@ -61,6 +56,14 @@ EC1V 0AT
 our
  (Registered 13 December 2012)",
 77,"Brazier, Julian",Conservative,2012-13,oversees_visit,2012-06-20,680.0,False,Donor: Inmarsat plc,
+77,"Brazier, Julian",Conservative,2011-12,employment,2011-12-08,250.0,False,"November 2011, received £250 for lecture to visiting students from European Studies Address: c/o Rhodes College, 2000 N Parkway, Memphis, TN 38112-1690
+. Hours: 1 hr. (Registered 8 December 2011)",
+77,"Brazier, Julian",Conservative,2011-12,employment,2010-10-06,150.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £150 for survey. Hours: 1 hr. (Registered 6 October 2010)
+77,"Brazier, Julian",Conservative,2011-12,employment,2010-10-06,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £75 for completing a survey. Hours: 30 mins. (Registered 6 October 2010)
+77,"Brazier, Julian",Conservative,2011-12,employment,2010-10-06,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £75 for completing a survey. Hours: 30 mins. (Registered 6 October 2010)
+77,"Brazier, Julian",Conservative,2011-12,employment,2011-03-08,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","Received £75 for completing a survey, 10 January 2011.  Hours: 1 hr. (Registered 8 March 2011)"
+77,"Brazier, Julian",Conservative,2011-12,employment,2011-03-08,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","Received £75 for completing a survey, 15 February 2011.  Hours: 1 hr. (Registered 8 March 2011)"
+77,"Brazier, Julian",Conservative,2011-12,employment,2011-05-26,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £75 for completing a survey.  Hours: 1 hr. (Registered 26 May 2011)
 77,"Brazier, Julian",Conservative,2011-12,employment,2011-12-08,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","June 2011, received  £75 for completing a survey. Hours: 1 hr 
 (Registered 8 December 2011)"
 77,"Brazier, Julian",Conservative,2011-12,employment,2011-12-08,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","October 2011, received £75 for completing a survey. Hours: 1 hr 
@@ -68,9 +71,6 @@ our
 77,"Brazier, Julian",Conservative,2011-12,employment,2012-01-01,75.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.","9 December  2011, received £75 for completing a survey. Hours: 1 hr 
 (Registered 9  December 2011)"
 77,"Brazier, Julian",Conservative,2011-12,employment,2011-03-08,500.0,False,Payment of £500 from Waterfront for chairing maritime conference.  Hours: 4 hrs. (Registered 8 March 2011),
-77,"Brazier, Julian",Conservative,2011-12,employment,2010-10-06,150.0,False,"ComRes, 4 Millbank, London, SW1P 3JA.",Received £150 for survey. Hours: 1 hr. (Registered 6 October 2010)
-77,"Brazier, Julian",Conservative,2011-12,employment,2011-12-08,250.0,False,"November 2011, received £250 for lecture to visiting students from European Studies Address: c/o Rhodes College, 2000 N Parkway, Memphis, TN 38112-1690
-. Hours: 1 hr. (Registered 8 December 2011)",
 77,"Brazier, Julian",Conservative,2010-11,employment,2009-12-07,900.0,False,"Member of parliamentary panel at Arcadia University, providing courses for visiting American students. Address: Arcadia
  
 University

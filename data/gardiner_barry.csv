@@ -1,10 +1,10 @@
 id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
+146,"Gardiner, Barry",Labour,2013-14,sponsorship,2014-01-08,5000.0,False,Donor: Garavi Gujarat Publications Ltd,
+146,"Gardiner, Barry",Labour,2013-14,oversees_visit,2013-12-16,712.0,False,Donor: (1) GLOBE International; (2) Food & Agriculture Organisation,
 146,"Gardiner, Barry",Labour,2014-15,sponsorship,2014-01-08,5000.0,False,Donor: Garavi Gujarat Publications Ltd,
 146,"Gardiner, Barry",Labour,2014-15,sponsorship,2014-12-22,5300.0,False,Donor: Garavi Gujarat Publications Ltd,
 146,"Gardiner, Barry",Labour,2014-15,oversees_visit,2014-02-27,3650.0,False,Donor: Sigma Pharmaceuticals PLC,
 146,"Gardiner, Barry",Labour,2014-15,oversees_visit,2014-11-07,865.0,False,Donor: Piraeus Bank S.A.,
-146,"Gardiner, Barry",Labour,2013-14,sponsorship,2014-01-08,5000.0,False,Donor: Garavi Gujarat Publications Ltd,
-146,"Gardiner, Barry",Labour,2013-14,oversees_visit,2013-12-16,712.0,False,Donor: (1) GLOBE International; (2) Food & Agriculture Organisation,
 146,"Gardiner, Barry",Labour,2012-13,sponsorship,2012-03-13,3000.0,False,Donor: Garavi Gujarat Publications Ltd,
 146,"Gardiner, Barry",Labour,2012-13,oversees_visit,2012-03-13,4764.7,False,Donor: GLOBE International,
 146,"Gardiner, Barry",Labour,2012-13,oversees_visit,2012-03-13,2484.44,False,Donor: GLOBE International,
@@ -12,7 +12,7 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 146,"Gardiner, Barry",Labour,2012-13,oversees_visit,2012-09-27,739.95,False,Donor: GLOBE International,
 146,"Gardiner, Barry",Labour,2012-13,oversees_visit,2012-09-27,3488.0,False,Donor: GLOBE International,
 146,"Gardiner, Barry",Labour,2012-13,oversees_visit,2012-10-25,3006.0,False,Donor: GLOBE International,
-146,"Gardiner, Barry",Labour,2011-12,employment,2011-09-16,75.0,True,"Populus, 10 Northburgh Street, London EC1V 0AT:","Received on 22 August 2011, payment of £75 for participating in research project. Hours: 25 mins. Payment donated to local organisation. (Registered 16 September 2011)"
+146,"Gardiner, Barry",Labour,2011-12,employment,2011-09-16,75.0,False,"Populus, 10 Northburgh Street, London EC1V 0AT:","Received on 22 August 2011, payment of £75 for participating in research project. Hours: 25 mins. Payment donated to local organisation. (Registered 16 September 2011)"
 146,"Gardiner, Barry",Labour,2011-12,employment,2011-11-03,7300.0,False,"Payments from Commonwealth Business Council (CBC),  18 Pall Mall, 
 London
  SW1Y 5LU:","£7,300 in expenses for visit to Perth, Australia to deliver a presentation and chair the Green Growth & Clean Technology Forum organised by the Commonwealth Business Council. No salary paid. Visit from 23 to 27 October 2011 

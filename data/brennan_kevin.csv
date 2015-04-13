@@ -1,7 +1,7 @@
 id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1400,"Brennan, Kevin",Labour,2014-15,oversees_visit,2014-11-19,4500.0,False,Donor: WISE,
 1400,"Brennan, Kevin",Labour,2012-13,gift,2012-04-10,1000.0,False,Donor: Wembley Stadium Limited,
-1400,"Brennan, Kevin",Labour,2011-12,employment,2011-09-20,150.0,True,"Received a payment of £150 from Ipsos MORI, 79-81 Borough Road, London SE1 1FY, for survey completed on 27 July 2011.  Payment donated to Cardiff West Labour Party. Hours: 45mins. (Registered 20 September 2011)",
+1400,"Brennan, Kevin",Labour,2011-12,employment,2011-09-20,150.0,False,"Received a payment of £150 from Ipsos MORI, 79-81 Borough Road, London SE1 1FY, for survey completed on 27 July 2011.  Payment donated to Cardiff West Labour Party. Hours: 45mins. (Registered 20 September 2011)",
 1400,"Brennan, Kevin",Labour,2011-12,gift,2011-03-18,1247.0,False,Donor: NCP,
 1400,"Brennan, Kevin",Labour,2010-11,gift,2010-07-24,1500.0,False,"Donor: Onifas Ltd, trading as The Bedford Arms",
 1400,"Brennan, Kevin",Labour,2010-11,gift,2010-07-24,1500.0,False,Donor: Research in Motion UK,

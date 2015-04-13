@@ -16,6 +16,10 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 379,"Hague, William",Conservative,2011-12,gift,2010-08-04,1100.0,False,Donor: The Travellers Club,
 379,"Hague, William",Conservative,2011-12,gift,2011-04-28,4200.0,False,Donor: Malcolm Scott,
 379,"Hague, William",Conservative,2011-12,gift,2011-06-27,1880.0,False,Donor: Grand Central Railway Company Ltd,
+379,"Hague, William",Conservative,2010-11,oversees_visit,2009-11-18,5097.98,False,Donor: Flying Lion Ltd,
+379,"Hague, William",Conservative,2010-11,oversees_visit,2009-12-22,4300.04,False,Donor: The International Institute for Strategic Studies,
+379,"Hague, William",Conservative,2010-11,oversees_visit,2010-01-18,1115.86,False,"Donor: Ministry of Foreign Affairs, Bahrain",
+379,"Hague, William",Conservative,2010-11,oversees_visit,2010-02-17,11895.68,False,Donor: World Economic Forum,
 379,"Hague, William",Conservative,2010-11,directorship,2009-09-25,2083.0,False,"AES SEAL Plc, Global Technology Centre, Mill Close, Bradmarsh Business Park, Rotherham S60 1BZ; specialists in the design and manufacture of mechanical seals and support systems. Resigned 30 September 2009.","£2,083 for serving on the board of AES Engineering Ltd.  Hours: None  (Registered 25 September 2009)"
 379,"Hague, William",Conservative,2010-11,directorship,2009-10-28,2083.0,False,"AES SEAL Plc, Global Technology Centre, Mill Close, Bradmarsh Business Park, Rotherham S60 1BZ; specialists in the design and manufacture of mechanical seals and support systems. Resigned 30 September 2009.","£2,083 for serving on the board of AES Engineering Ltd.  Hours: 4 hrs. (Registered 28 October 2009)"
 379,"Hague, William",Conservative,2010-11,employment,2009-12-22,250.03,False,"Payment of £14,662.50 received for a speech given to the Denplan National Conference in Coventry on 11 September 2009. Address of payer: JLA, 80 Great Portland Street, London W1W 7NW. Hours: 2 hrs. (Registered 28 October 2009)",
@@ -26,7 +30,3 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 379,"Hague, William",Conservative,2010-11,gift,2009-12-14,3757.57,False,Donor: Malcolm Scott,
 379,"Hague, William",Conservative,2010-11,gift,2010-06-01,1000.0,False,Donor: Grand Central Railway Company Ltd,
 379,"Hague, William",Conservative,2010-11,gift,2010-08-04,1100.0,False,Donor: The Travellers Club,
-379,"Hague, William",Conservative,2010-11,oversees_visit,2009-11-18,5097.98,False,Donor: Flying Lion Ltd,
-379,"Hague, William",Conservative,2010-11,oversees_visit,2009-12-22,4300.04,False,Donor: The International Institute for Strategic Studies,
-379,"Hague, William",Conservative,2010-11,oversees_visit,2010-01-18,1115.86,False,"Donor: Ministry of Foreign Affairs, Bahrain",
-379,"Hague, William",Conservative,2010-11,oversees_visit,2010-02-17,11895.68,False,Donor: World Economic Forum,

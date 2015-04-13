@@ -1,4 +1,8 @@
 id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
+609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in June 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
+609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in July 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
+609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in August 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
+609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in May 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
 609,"Galloway, George",Respect,2014-15,client,2014-02-12,6600.0,False,,"Received four payments of £1,650 in May 2013, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 12 February 2014)"
 609,"Galloway, George",Respect,2014-15,client,2014-02-12,6600.0,False,,"Received four payments of £1,650 in June 2013, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 12 February 2014)"
 609,"Galloway, George",Respect,2014-15,client,2014-02-12,6600.0,False,,"Received four payments of £1,650 in July 2013, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 12 February 2014)"
@@ -11,10 +15,6 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 609,"Galloway, George",Respect,2014-15,client,2014-05-12,4950.0,False,,"Received three payments of £1,650 in February 2014, £4,950 in total. Hours: 1 hr a week; 3 hrs in total.  (Registered 12 May 2014)"
 609,"Galloway, George",Respect,2014-15,client,2014-05-12,4950.0,False,,"Received three payments of £1,650 in March 2014, £4,950 in total. Hours: 1 hr a week; 3 hrs in total.  (Registered 12 May 2014)"
 609,"Galloway, George",Respect,2014-15,client,2014-05-12,6600.0,False,,"Received four payments of £1,650 in April 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 12 May 2014)"
-609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in May 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
-609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in June 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
-609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in July 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
-609,"Galloway, George",Respect,2014-15,client,2014-09-18,6600.0,False,,"Received four payments of £1,650 in August 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total.  (Registered 18 September 2014)"
 609,"Galloway, George",Respect,2014-15,client,2014-11-03,6600.0,False,,"Received four payments of £1,650 in September 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total. (Registered 3 November 2014)"
 609,"Galloway, George",Respect,2014-15,client,2014-11-03,6600.0,False,,"Received four payments of £1,650 in October 2014, £6,600 in total. Hours: 1 hr a week; 4 hrs in total. (Registered 3 November 2014)"
 609,"Galloway, George",Respect,2014-15,client,2013-08-11,600.0,False,,"Received £6,000 and return flights London to Beirut (value approx £600) between 22 and 25 July 2013 to record two television programmes.  Hours: 3 hrs plus travel. (Registered 11 August 2013; updated 12 February 2014)"
@@ -58,6 +58,16 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 609,"Galloway, George",Respect,2013-14,client,2013-11-14,6000.0,False,"Payments from Al-Mayadeen TV, Beirut, for presenting two television programmes per month  (previously registered under Category 2: Remunerated Employment).  Address: Jnah, Embassy Street, Ruby Bldg, Beirut 00961 1856080/90:","Received £6,000 and return flights London to Beirut between 15 and 18 September 2013, plus hotel accommodation,  to record two television programmes.  Hours: 3 hrs plus travel. (Registered 14 November 2013; updated 29 November 2013)"
 609,"Galloway, George",Respect,2013-14,client,2013-11-14,6000.0,False,"Payments from Al-Mayadeen TV, Beirut, for presenting two television programmes per month  (previously registered under Category 2: Remunerated Employment).  Address: Jnah, Embassy Street, Ruby Bldg, Beirut 00961 1856080/90:","Received £6,000 and return flights London to Beirut between 27 and 30 October 2013, plus hotel accommodation,   to record two television programmes.  Hours: 3 hrs plus travel. (Registered 14 November 2013; updated 29 November 2013)"
 609,"Galloway, George",Respect,2013-14,oversees_visit,2013-05-07,1500.0,False,Donor: Sudanese Embassy,
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,client,2013-01-18,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,oversees_visit,2012-12-12,3281.35,False,Donor: Eurasian Media Forum,
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
+609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
 609,"Galloway, George",Respect,2012-13,employment,2012-06-20,1500.0,False,"Payments from Al-Mayadeen TV, Beirut, for presenting two television programmes per month.  Address: Jnah, Embassy Street, Ruby Bldg, Beirut 00961 1856080/90:","Received £6,000 gross and two flight tickets with an estimated value of £1,500 for pre-recording two television programmes on 8 June 2012. Hours: 3 hrs plus travel. (Registered 20 June 2012)"
 609,"Galloway, George",Respect,2012-13,employment,2012-08-02,600.0,False,"Payments from Al-Mayadeen TV, Beirut, for presenting two television programmes per month.  Address: Jnah, Embassy Street, Ruby Bldg, Beirut 00961 1856080/90:","July 2012, received £6,000 gross and one return flight from London to Beirut; value £600. (Registered 2 August 2012)"
 609,"Galloway, George",Respect,2012-13,employment,2012-09-19,600.0,False,"Payments from Al-Mayadeen TV, Beirut, for presenting two television programmes per month.  Address: Jnah, Embassy Street, Ruby Bldg, Beirut 00961 1856080/90:","Received £6,000 gross and one return flight to Beirut, out 7 September and return 11 September 2012; value £600, to record two television programmes. (Registered 19 September 2012)"
@@ -75,13 +85,3 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
 609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
 609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-01,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,client,2013-01-18,500.0,False,,Payment of £500.  Hours: 20 mins.
-609,"Galloway, George",Respect,2012-13,oversees_visit,2012-12-12,3281.35,False,Donor: Eurasian Media Forum,

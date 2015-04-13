@@ -7,4 +7,4 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 247,"Letwin, Oliver",Conservative,2010-11,directorship,2009-12-21,5026.67,False,,"£5,026.67 gross pay for December 2009.  Hours: 36 hours. (Registered 21 December 2009)"
 247,"Letwin, Oliver",Conservative,2010-11,sponsorship,2009-10-26,28583.0,False,Donor: PricewaterhouseCoopers,
 247,"Letwin, Oliver",Conservative,2010-11,sponsorship,2009-12-03,31472.0,False,Donor: KPMG LLP,
-247,"Letwin, Oliver",Conservative,2010-11,sponsorship,2010-02-17,45150.0,True,Donor: Martyn Rose Limited,
+247,"Letwin, Oliver",Conservative,2010-11,sponsorship,2010-02-17,45150.0,False,Donor: Martyn Rose Limited,

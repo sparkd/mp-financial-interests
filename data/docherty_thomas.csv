@@ -1,8 +1,8 @@
 id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 3962,"Docherty, Thomas",Labour,2014-15,gift,2014-09-25,700.0,False,Donor: ExxonMobil Chemical Ltd,
 3962,"Docherty, Thomas",Labour,2012-13,sponsorship,2011-12-06,9360.0,False,Donor: Catholic Trust for England and Wales,
-3962,"Docherty, Thomas",Labour,2011-12,employment,2011-06-02,75.0,True,"Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:","17 May 2011, payment of £75.  Hours: 30 mins.  Payment donated to my local constituency party. (Registered 2 June 2011)"
-3962,"Docherty, Thomas",Labour,2011-12,employment,2011-06-02,75.0,True,"Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:","3 May 2011, payment of £75.  Hours: 30 mins.  Payment donated to my local constituency party. (Registered 2 June 2011)"
-3962,"Docherty, Thomas",Labour,2011-12,employment,2011-08-01,75.0,True,"22 July 2011, payment of £75 from Populus, 10 Northburgh Street, London EC1V 0AT, for opinion survey interview on 31 May 2011.  Hours: 25 mins.  Payment donated to my local constituency party. (Registered 1 August 2011)",
+3962,"Docherty, Thomas",Labour,2011-12,employment,2011-06-02,75.0,False,"Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:","3 May 2011, payment of £75.  Hours: 30 mins.  Payment donated to my local constituency party. (Registered 2 June 2011)"
+3962,"Docherty, Thomas",Labour,2011-12,employment,2011-06-02,75.0,False,"Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:","17 May 2011, payment of £75.  Hours: 30 mins.  Payment donated to my local constituency party. (Registered 2 June 2011)"
+3962,"Docherty, Thomas",Labour,2011-12,employment,2011-08-01,75.0,False,"22 July 2011, payment of £75 from Populus, 10 Northburgh Street, London EC1V 0AT, for opinion survey interview on 31 May 2011.  Hours: 25 mins.  Payment donated to my local constituency party. (Registered 1 August 2011)",
 3962,"Docherty, Thomas",Labour,2011-12,sponsorship,2011-12-06,9360.0,False,Donor: Catholic Trust for England and Wales,
 3962,"Docherty, Thomas",Labour,2011-12,oversees_visit,2010-12-16,3279.0,False,"Donor: Minister of Foreign Affairs, Bahrain",

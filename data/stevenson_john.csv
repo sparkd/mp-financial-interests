@@ -1,16 +1,16 @@
 id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
+3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for September 2014.  Hours: 20 hrs. (Registered 3 November 2014)
+3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for October 2014.  Hours: 20 hrs. (Registered 3 November 2014)
+3942,"Stevenson, John",Conservative,2014-15,employment,2015-01-07,650.0,False,,Received £650 gross for November 2014.  Hours: 20 hrs. (Registered 7 January 2015)
+3942,"Stevenson, John",Conservative,2014-15,employment,2015-01-07,650.0,False,,Received £650 gross for December 2014.  Hours: 25 hrs. (Registered 7 January 2015)
+3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for July 2014.  Hours: 30 hrs. (Registered 3 November 2014)
+3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for August 2014.  Hours: 30 hrs. (Registered 3 November 2014)
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-01-30,650.0,False,,Received £650 gross for January 2014.  Hours: 20 hrs. (Registered 30 January 2014)
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-03-06,650.0,False,,Received £650 gross for February 2014.  Hours: 25 hrs. (Registered 6 March 2014)
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-04-07,650.0,False,,"Received £650 gross for March 2014.  Hours: 20 hrs. (Registered 7 April 2014, updated 9 April 2014)"
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-05-20,650.0,False,,Received £650 gross for April 2014.  Hours: 20 hrs. (Registered 20 May 2014)
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-07-17,650.0,False,,Received £650 gross for May 2014.  Hours: 20 hrs. (Registered 17 July 2014)
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-07-17,650.0,False,,Received £650 gross for June 2014.  Hours: 20 hrs. (Registered 17 July 2014)
-3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for July 2014.  Hours: 30 hrs. (Registered 3 November 2014)
-3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for August 2014.  Hours: 30 hrs. (Registered 3 November 2014)
-3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for September 2014.  Hours: 20 hrs. (Registered 3 November 2014)
-3942,"Stevenson, John",Conservative,2014-15,employment,2014-11-03,650.0,False,,Received £650 gross for October 2014.  Hours: 20 hrs. (Registered 3 November 2014)
-3942,"Stevenson, John",Conservative,2014-15,employment,2015-01-07,650.0,False,,Received £650 gross for November 2014.  Hours: 20 hrs. (Registered 7 January 2015)
-3942,"Stevenson, John",Conservative,2014-15,employment,2015-01-07,650.0,False,,Received £650 gross for December 2014.  Hours: 25 hrs. (Registered 7 January 2015)
 3942,"Stevenson, John",Conservative,2013-14,employment,2013-03-05,600.0,False,,Received £600 gross for January 2013.  Hours: 20 hrs. (Registered 5 March 2013)
 3942,"Stevenson, John",Conservative,2013-14,employment,2013-03-05,600.0,False,,Received £600 gross for February 2013.  Hours: 25 hrs. (Registered 5 March 2013)
 3942,"Stevenson, John",Conservative,2013-14,employment,2013-04-10,600.0,False,,Received £600 gross for March 2013.  Hours: 20 hrs. (Registered 10 April 2013)
@@ -57,7 +57,7 @@ id,list_name,party,session,type,date,value,donated_to_charity,description,sub_en
 3942,"Stevenson, John",Conservative,2011-12,employment,2011-10-18,450.0,False,,Received £450 net for September 2011.  Hours: 28 hrs. (Registered 18 October 2011)
 3942,"Stevenson, John",Conservative,2011-12,employment,2011-12-19,450.0,False,,Received £450 net for October and November 2011.  Hours: 20 hrs. (Registered 19 December 2011)
 3942,"Stevenson, John",Conservative,2011-12,employment,2012-01-06,460.0,False,,Received £460 net for December 2011.  Hours: 25 hrs. (Registered 6 January 2012)
-3942,"Stevenson, John",Conservative,2011-12,employment,2011-08-05,75.0,True,,"22 July 2011, Received  payment of £75 from Populus, 10 Northburgh Street, London EC1V   0AT, for opinion research.  Payment donated to my constituency party. Hours: 25 mins. (Registered 5 August 2011)"
+3942,"Stevenson, John",Conservative,2011-12,employment,2011-08-05,75.0,False,,"22 July 2011, Received  payment of £75 from Populus, 10 Northburgh Street, London EC1V   0AT, for opinion research.  Payment donated to my constituency party. Hours: 25 mins. (Registered 5 August 2011)"
 3942,"Stevenson, John",Conservative,2011-12,gift,2011-03-23,1500.0,False,Donor: Lord Ballyedmond,
 3942,"Stevenson, John",Conservative,2010-11,employment,2010-06-02,3800.0,False,,"Received £3,800 net for ten days working out my notice in May 2010 (Registered 2 June 2010)"
 3942,"Stevenson, John",Conservative,2010-11,employment,2010-08-05,450.0,False,,Received £450 net for three days work in July 2010 (Registered 5 August 2010)
