@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 533,"Hanson, David",Labour,2014-15,employment,2014-01-22,75.0,True,"Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",Payment of £75 for November 2013 parliamentary panel survey.  Hours: 45 mins.  Payment donated to charity. (Registered 22 January 2014)
 533,"Hanson, David",Labour,2014-15,employment,2014-04-02,75.0,False,"Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",Payment of £75 for January 2014 parliamentary panel survey.  Hours: 45 mins.  (Registered 2 April 2014)
 533,"Hanson, David",Labour,2014-15,employment,2014-05-07,75.0,False,"Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",Payment of £75 for February-March 2014 parliamentary panel survey.  Hours: 45 mins.  (Registered 7 May 2014)

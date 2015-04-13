@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 429,"Twigg, Derek",Labour,2014-15,employment,2014-10-09,200.0,False,"Payment of £200 received on 22 September 2014 from Ipsos MORI, 79-81 Borough Road, London SE1 1FY, for opinion survey.  Hours: 1.5 hrs. (Registered 9 October 2014)",
 429,"Twigg, Derek",Labour,2013-14,employment,2013-04-22,225.0,False,"Payments received for completing Parliamentary Panel Surveys for ComRes, Four Millbank, London SW1P 3JA:",Received payment of £225 for completing surveys.  Hours: 1.5 hrs. (Registered 22 April 2013)
 429,"Twigg, Derek",Labour,2013-14,employment,2013-07-09,200.0,True,"Payments received for completing Parliamentary Panel Surveys for Ipsos Mori, 79-81 Borough Road, London SE1 1FY:",£200 for completing summer survey.  Hours: 1.5 hrs.  Payment donated to charity. (Registered 9 July 2013)

@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4135,"Morris, David",Conservative,2014-15,gift,2014-06-18,1404.0,False,Donor: JTI,
 4135,"Morris, David",Conservative,2014-15,gift,2014-07-17,668.74,False,Donor: JTI,
 4135,"Morris, David",Conservative,2014-15,oversees_visit,2014-03-12,5292.0,False,Donor: Ministry of Foreign Affairs (Saudi Arabia),

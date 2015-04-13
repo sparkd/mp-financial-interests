@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 3948,"Harris, Rebecca",Conservative,2014-15,employment,2014-01-20,75.0,True,"Payment from ComRes, Four Millbank, London W1P 3JA:","15 January 2014, £75 received for survey in November 2013.  Hours: 20 mins.  Fee donated to charity. (Registered 20 January 2014)"
 3948,"Harris, Rebecca",Conservative,2014-15,employment,2014-03-10,75.0,True,"Payment from ComRes, Four Millbank, London W1P 3JA:","March 2014, £75 received for survey in January 2014.  Hours: 20 mins.  Fee donated to charity. (Registered 10 March 2014)"
 3948,"Harris, Rebecca",Conservative,2014-15,employment,2014-08-18,75.0,False,"Payment from ComRes, Four Millbank, London W1P 3JA:","29 July 2014, £75 paid direct to charity for survey in June 2014.  Hours: 30 mins.  (Registered 18 August 2014)"

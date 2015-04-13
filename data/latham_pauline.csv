@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4025,"Latham, Pauline",Conservative,2013-14,oversees_visit,2013-03-18,521.3,False,Donor: (1) Anglo American plc (2) Johnson & Johnson,
 4025,"Latham, Pauline",Conservative,2013-14,oversees_visit,2013-11-07,4590.0,False,Donor: Free the Children,
 4025,"Latham, Pauline",Conservative,2012-13,employment,2012-02-09,35.0,True,"Payments from ComRes, 4 Millbank, London, SW1P 3JA, for completing parliamentary panel surveys:","Received fee of £35 on 29 March 2010, donated to charity. Hours: 15 mins. (Registered 9 February 2012; updated 6 March 2012)"

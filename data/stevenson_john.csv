@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-01-30,650.0,False,,Received £650 gross for January 2014.  Hours: 20 hrs. (Registered 30 January 2014)
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-03-06,650.0,False,,Received £650 gross for February 2014.  Hours: 25 hrs. (Registered 6 March 2014)
 3942,"Stevenson, John",Conservative,2014-15,employment,2014-04-07,650.0,False,,"Received £650 gross for March 2014.  Hours: 20 hrs. (Registered 7 April 2014, updated 9 April 2014)"

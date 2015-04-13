@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 595,"Murphy, Jim",Labour,2014-15,employment,2014-08-12,100.0,False,"1 August 2014, received £100 for writing an article for the Catholic Herald, 15 Lamb's Passage, London EC1Y 8TQ. Hours: 2 hrs. (Registered 12 August 2014)",
 595,"Murphy, Jim",Labour,2014-15,employment,2014-09-12,90.0,True,"Payments received from ComRes, 4 Millbank, London, SW1P 3JA:","22 August 2014, £90 for completion of annual survey. Payment donated to charity.  Hours: 30 mins. (Registered 12 September 2014)"
 595,"Murphy, Jim",Labour,2014-15,sponsorship,2013-12-19,7846.05,False,Donor: Fundraising dinner organised by the office of the Shadow Defence Secretary,

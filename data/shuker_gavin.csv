@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4013,"Shuker, Gavin",Labour,2014-15,sponsorship,2013-10-30,7150.0,False,Donor: CARE (Christian Action Research and Education),
 4013,"Shuker, Gavin",Labour,2014-15,oversees_visit,2014-09-23,1011.18,False,Donor: Christian Aid,
 4013,"Shuker, Gavin",Labour,2014-15,oversees_visit,2014-11-19,1818.6,False,Donor: World Wide Fund for Nature (WWF),

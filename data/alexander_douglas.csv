@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 632,"Alexander, Douglas",Labour,2014-15,oversees_visit,2014-05-16,6182.0,False,Donor: Harvard Kennedy School,
 632,"Alexander, Douglas",Labour,2014-15,oversees_visit,2014-09-10,3.0,False,Donor: The Aspen Institute,
 632,"Alexander, Douglas",Labour,2013-14,gift,2013-04-10,1200.0,False,Donor: Editorial Intelligence,

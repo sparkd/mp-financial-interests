@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 3937,"Burley, Aidan",Conservative,2014-15,gift,2014-07-15,1600.0,False,Donor: Imperial Tobacco,
 3937,"Burley, Aidan",Conservative,2013-14,oversees_visit,2013-06-12,5800.0,False,Donor: Sri Lankan High Commission,
 3937,"Burley, Aidan",Conservative,2013-14,oversees_visit,2013-06-12,1200.0,False,Donor: High Commission of the Maldives,

@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 3960,"Smith, Henry",Conservative,2014-15,employment,2014-01-30,200.0,True,"Fees from Ipsos MORI, 79-81 Borough Road, London, SE1 1FY, for completion of a survey:","Fee of £200, donated to my local constituency association.  Hours: 1.5 hrs.  (Registered 30 January 2014)"
 3960,"Smith, Henry",Conservative,2014-15,employment,2014-01-20,75.0,False,"Fees from ComRes, Four Millbank, London SW1P 3JA, for completion of surveys:",Fee of £75.  Hours: 1 hr. (Registered 20 January 2014)
 3960,"Smith, Henry",Conservative,2014-15,employment,2014-03-12,75.0,True,"Fees from ComRes, Four Millbank, London SW1P 3JA, for completion of surveys:",Fee of £75. Hours: 1 hr. Fee donated to Crawley Conservatives. (Registered 12 March 2014)

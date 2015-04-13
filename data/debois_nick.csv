@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4002,"de Bois, Nick",Conservative,2014-15,client,2014-12-17,1025.0,False,Of 3rd Step Broadcast:,
 4002,"de Bois, Nick",Conservative,2013-14,oversees_visit,2013-01-08,3700.0,False,Donor: The European Azerbaijan Society,
 4002,"de Bois, Nick",Conservative,2013-14,oversees_visit,2013-10-14,850.0,False,"Donor: International Dept, Cyprus House of Representatives",

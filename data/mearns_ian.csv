@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4000,"Mearns, Ian",Labour,2013-14,oversees_visit,2013-08-29,840.62,False,Donor: BASF plc,
 4000,"Mearns, Ian",Labour,2011-12,employment,2011-05-24,75.0,True,"Payments from ComRes, Four Millbank, London SW1P 3JA, for completing surveys.","15 October 2010, £75.  Hours: 1 hr. Payment donated to charity. (Registered 24 May 2011)"
 4000,"Mearns, Ian",Labour,2011-12,employment,2011-05-24,75.0,True,"Payments from ComRes, Four Millbank, London SW1P 3JA, for completing surveys.","24 November 2010, £75. Hours: 1 hr.  Payment donated to charity. (Registered 24 May 2011)"

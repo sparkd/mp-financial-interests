@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4014,"Sharma, Alok",Conservative,2014-15,oversees_visit,2014-11-07,750.0,False,"Donor: Konrad-Adenauer-Stiftung (KAS), London Office",
 4014,"Sharma, Alok",Conservative,2013-14,oversees_visit,2013-06-10,675.41,False,"Donor: All Party Parliamentary China Group (with sponsorship from Arup, Cambridge Assessment, City of London, GKN, HSBC, John Swire & Sons)",
 4014,"Sharma, Alok",Conservative,2013-14,oversees_visit,2013-10-31,1000.0,False,"Donor: Konrad-Adenauer-Stiftung (KAS), London Office",

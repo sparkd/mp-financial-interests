@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1546,"MacNeil, Angus Brendan",Scottish National,2013-14,oversees_visit,2013-07-30,4200.0,False,Donor: The European Azerbaijan Society,
 1546,"MacNeil, Angus Brendan",Scottish National,2012-13,oversees_visit,2012-11-12,1359.0,False,Donor: HM Government of Gibraltar,
 1546,"MacNeil, Angus Brendan",Scottish National,2012-13,oversees_gift,2012-12-12,700.0,False,Donor: Barcelona Football Club,

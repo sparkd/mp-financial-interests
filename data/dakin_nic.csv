@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4056,"Dakin, Nic",Labour,2014-15,employment,2014-02-14,75.0,False,,"January 2014, £75. Hours: 15 mins. Payment made to local charity. (Registered 14 February 2014)"
 4056,"Dakin, Nic",Labour,2014-15,employment,2014-02-14,75.0,False,,"January 2014, £75. Hours: 15 mins. Payment made to local charity. (Registered 14 February 2014)"
 4056,"Dakin, Nic",Labour,2014-15,employment,2014-07-24,75.0,True,,"May 2014, £75. Hours: 15 mins. Payment donated to charity. (Registered 24 July 2014)"

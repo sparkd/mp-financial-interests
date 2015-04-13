@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 140,"Hodge, Margaret",Labour,2014-15,employment,2014-03-21,500.0,True,"Payment of £500 received for speech on 13 February 2014 for Dods Ltd, 21 Dartmouth Street, London SW1H 9BP. Payment donated to charity. Hours: 3 hrs. (Registered 21 March 2014)",
 140,"Hodge, Margaret",Labour,2014-15,employment,2014-04-28,200.0,False,"11 April 2014, received £200 from the University of East Anglia, Norwich Research Park, NR4 7TJ, for giving the John Garret Memorial Lecture on 28 February 2014. Hours: 5 hrs. (Registered 28 April 2014)",
 140,"Hodge, Margaret",Labour,2014-15,employment,2014-10-20,1800.0,True,"20 October 2014, received £1,800 from 330 Consulting, 4 Millbrae, Gargunnick FK8 3BB for a speech made on 29 September 2014. Hours: 3 hrs preparation and delivery. Fee donated to local charities. (Registered 20 October 2014)",

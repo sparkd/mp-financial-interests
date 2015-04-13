@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1200,"Knight, Greg",Conservative,2014-15,employment,2014-12-04,1000.0,False,"Payments from H and H Classics Ltd (a classic car auctions company), Appleton, Warrington WA4 4SN:","Received £1,000 for consultancy work on 11 November 2014. Hours: 4 hrs. (Registered 4 December 2014)"
 1200,"Knight, Greg",Conservative,2014-15,employment,2015-01-12,1000.0,False,"Payments from H and H Classics Ltd (a classic car auctions company), Appleton, Warrington WA4 4SN:","Received £1,000 for consultancy work on 11 December 2014. Hours: 2.5 hrs. (Registered 12 January 2015)"
 1200,"Knight, Greg",Conservative,2014-15,employment,2015-01-20,1000.0,False,"Payments from H and H Classics Ltd (a classic car auctions company), Appleton, Warrington WA4 4SN:","Received £1,000 for consultancy work on 12 January 2015. Hours: 2.5 hrs. (Registered 20 January 2015)"

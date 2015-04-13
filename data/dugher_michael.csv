@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 3916,"Dugher, Michael",Labour,2014-15,employment,2014-03-31,90.0,True,"Payment of £90 from the Guardian News & Media Group, PO Box 68164, Kings Place, 90 York Way, London N1P 2AP, for article. Hours: 2 hrs. Payment donated to charity. (Registered 31 March 2014)",
 3916,"Dugher, Michael",Labour,2014-15,oversees_visit,2014-01-30,1250.0,False,Donor: Labour Friends of Israel,
 3916,"Dugher, Michael",Labour,2014-15,oversees_visit,2014-05-29,1500.0,False,"Donor: (1) Inst of Politics, Univ of Chicago (2) Graham Cole (3) Malcolm George",

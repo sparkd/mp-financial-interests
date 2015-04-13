@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 318,"Spellar, John",Labour,2014-15,oversees_visit,2014-01-20,1250.0,False,Donor: Labour Friends of Israel,
 318,"Spellar, John",Labour,2014-15,oversees_visit,2014-09-11,1586.0,False,Donor: Australia Israel Cultural Exchange,
 318,"Spellar, John",Labour,2014-15,oversees_visit,2015-01-08,1920.0,False,Donor: Malvern College Egypt,

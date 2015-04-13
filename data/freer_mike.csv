@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 4004,"Freer, Mike",Conservative,2014-15,oversees_visit,2014-03-27,1200.0,False,Donor: Conservative Friends of Israel Ltd,
 4004,"Freer, Mike",Conservative,2013-14,oversees_visit,2013-03-07,2000.0,False,Donor: Conservative Friends of Israel,
 4004,"Freer, Mike",Conservative,2013-14,oversees_visit,2013-10-22,700.0,False,"Donor: The Municipality of Morphou, Cyprus",

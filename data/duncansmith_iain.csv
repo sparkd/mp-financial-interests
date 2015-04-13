@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 152,"Duncan Smith, Iain",Conservative,2013-14,gift,2013-04-17,2400.0,False,Donor: Tottenham Hotspur Football and Athletic Co Ltd,
 152,"Duncan Smith, Iain",Conservative,2012-13,gift,2011-02-15,1320.0,False,Donor: Buck’s Club 1919,
 152,"Duncan Smith, Iain",Conservative,2012-13,gift,2012-06-15,265.0,False,Donor: Pratt’s Club,

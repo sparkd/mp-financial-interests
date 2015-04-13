@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 244,"Walter, Robert",Conservative,2014-15,oversees_visit,2014-02-24,3000.0,False,Donor: Mohammed Farid Khamis Association for Society Development,
 244,"Walter, Robert",Conservative,2014-15,oversees_visit,2014-07-09,3300.0,False,Donor: British University in Egypt,
 244,"Walter, Robert",Conservative,2014-15,oversees_visit,2015-01-14,1920.0,False,Donor: Malvern College Egypt,

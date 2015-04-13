@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1201,"Burt, Alistair",Conservative,2014-15,employment,2014-03-17,3333.32,False,"Payments from PLLG Investors Advisors Ltd, 1200 Century Way, Thorpe Business Park, Leeds LS15 8ZA:","£3,333.32 received for consulting services. Hours: 4 hrs. (Registered 17 March 2014)"
 1201,"Burt, Alistair",Conservative,2014-15,employment,2014-04-14,1666.66,False,"Payments from PLLG Investors Advisors Ltd, 1200 Century Way, Thorpe Business Park, Leeds LS15 8ZA:","£1,666.66 received on 2 April 2014, for consulting services. Hours: 2 hrs. (Registered 14 April 2014)"
 1201,"Burt, Alistair",Conservative,2014-15,employment,2014-05-14,1666.66,False,"Payments from PLLG Investors Advisors Ltd, 1200 Century Way, Thorpe Business Park, Leeds LS15 8ZA:","£1,666.66 received on 12 May 2014, for consulting services. Hours: 2 hrs. (Registered 14 May 2014)"

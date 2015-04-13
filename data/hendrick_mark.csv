@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 473,"Hendrick, Mark",Labour,2014-15,oversees_visit,2014-09-01,3300.0,False,Donor: The Taipei Representative Office in the UK (TRO),
 473,"Hendrick, Mark",Labour,2012-13,oversees_visit,2012-03-15,8159.62,False,Donor: Hong Kong Government,
 473,"Hendrick, Mark",Labour,2012-13,oversees_visit,2012-07-05,1002.94,False,Donor: Sir Joseph Hotung Programme,

@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1438,"Jones, Kevan",Labour,2014-15,employment,2014-01-22,75.0,False,"Payments from ComRes, 4 Millbank, London, SW1P 3JA:","15 January 2014, payment of £75 for participation in November 2013 Parliamentary Panel Survey.  Hours: 30 mins. (Registered 22 January 2014)"
 1438,"Jones, Kevan",Labour,2014-15,employment,2014-03-12,75.0,False,"Payments from ComRes, 4 Millbank, London, SW1P 3JA:","Payment of £75, for participation in January 2014 Parliamentary Panel Survey.  Hours: 30 mins. (Registered 12 March 2014)"
 1438,"Jones, Kevan",Labour,2014-15,employment,2014-08-05,75.0,False,"Payments from ComRes, 4 Millbank, London, SW1P 3JA:","Payment of £75, for participation in May-June 2014 Parliamentary Panel Survey.  Hours: 30 mins. (Registered 5 August 2014)"

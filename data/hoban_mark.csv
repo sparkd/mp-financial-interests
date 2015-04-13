@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1414,"Hoban, Mark",Conservative,2014-15,employment,2014-12-16,4000.0,False,Chartered accountant (non-practising).,
 1414,"Hoban, Mark",Conservative,2014-15,oversees_visit,2014-05-28,690.0,False,Donor: CAFOD,
 1414,"Hoban, Mark",Conservative,2013-14,oversees_visit,2013-12-10,2500.0,False,Donor: Conservative Friends of Israel,

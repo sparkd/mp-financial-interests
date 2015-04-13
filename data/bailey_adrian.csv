@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 320,"Bailey, Adrian",Labour,2013-14,employment,2013-01-22,75.0,True,"Payment from Populus, 10 Northborough Street, London, EC1V 0AT","December 2012, £75. Hours: 30 mins. Payment donated to charity. (Registered 22 January 2013)"
 320,"Bailey, Adrian",Labour,2013-14,oversees_visit,2013-08-29,746.89,False,Donor: BASF plc,
 320,"Bailey, Adrian",Labour,2012-13,employment,2012-02-09,75.0,True,"Payments from ComRes, 4 Millbank, London, SW1P 3JA:","8 February 2012, £75 for survey. Hours: 30 mins. Payment donated to charity. (Registered 9 February 2012)"

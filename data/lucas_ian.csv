@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1470,"Lucas, Ian",Labour,2014-15,oversees_visit,2014-02-17,1700.0,False,Donor: Information International,
 1470,"Lucas, Ian",Labour,2014-15,oversees_visit,2014-07-04,3300.0,False,Donor: British University in Egypt,
 1470,"Lucas, Ian",Labour,2014-15,oversees_visit,2014-08-28,1586.56,False,Donor: Australia Israel Cultural Exchange,

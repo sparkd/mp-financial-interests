@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 56,"Arbuthnot, James",Conservative,2014-15,gift,2014-05-28,1250.0,False,Donor: Bechtel Management Company Ltd,
 56,"Arbuthnot, James",Conservative,2014-15,oversees_visit,2014-07-09,2528.0,False,Donor: Conservative Friends of Israel,
 56,"Arbuthnot, James",Conservative,2014-15,oversees_visit,2014-08-05,3300.0,False,Donor: The Taipei Representative Office in the UK (TRO),

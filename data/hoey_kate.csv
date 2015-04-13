@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 210,"Hoey, Kate",Labour,2011-12,employment,2011-02-14,500.0,True,"Payment of £50 for opinion survey for Populus, 10 Northburgh Street, London EC1V 0AT.  Hours: 15 mins. Payment donated to local organisation. (Registered 10 January 2011)",
 210,"Hoey, Kate",Labour,2011-12,oversees_visit,2010-12-13,3000.0,False,Donor: Government of Oman,
 210,"Hoey, Kate",Labour,2011-12,oversees_visit,2011-10-31,2000.0,False,Donor: Government of Oman,

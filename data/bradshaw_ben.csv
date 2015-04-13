@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 230,"Bradshaw, Ben",Labour,2014-15,employment,2014-01-31,75.0,False,"Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:","15 January 2014, payment of £75.  Hours: 30 mins. (Registered 31 January 2014)"
 230,"Bradshaw, Ben",Labour,2014-15,employment,2014-03-12,75.0,False,"Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:","5 March 2014, payment of £75.  Hours: 30 mins. (Registered 12 March 2014)"
 230,"Bradshaw, Ben",Labour,2014-15,employment,2014-05-02,75.0,False,"Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:","24 April 2014, payment of £75.  Hours: 30 mins. (Registered 2 May 2014)"

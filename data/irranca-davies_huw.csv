@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1476,"Irranca-Davies, Huw",Labour,2014-15,employment,2014-02-04,75.0,True,"Surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.","Payment of £75, donated to the Labour Party, for survey completed on 1 February 2014.  Hours: 10 mins. (Registered 4 February 2014)"
 1476,"Irranca-Davies, Huw",Labour,2014-15,employment,2014-03-17,75.0,False,"Surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",£75 was paid direct to charity for a survey I completed on 15 March 2014.  Hours: 15 mins. (Registered 17 March 2014)
 1476,"Irranca-Davies, Huw",Labour,2014-15,employment,2014-05-30,75.0,False,"Surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",£75 was paid direct to a local organisation for a survey I completed on 16 May 2014.  Hours: 20 mins. (Registered 30 May 2014)

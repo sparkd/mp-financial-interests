@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 1550,"Binley, Brian",Conservative,2011-12,employment,2011-03-28,75.0,True,Payment of £75 received on 18 March 2011from Populus for participation in research project in February 2011.  Payment donated to charity. (Registered 28 March 2011),
 1550,"Binley, Brian",Conservative,2011-12,gift,2011-07-18,1132.8,False,Donor: Japan Tobacco International,
 1550,"Binley, Brian",Conservative,2011-12,gift,2011-07-18,1132.8,False,Donor: Japan Tobacco International,

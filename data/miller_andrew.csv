@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 428,"Miller, Andrew",Labour,2013-14,oversees_visit,2013-09-02,920.54,False,Donor: BASF PLC,
 428,"Miller, Andrew",Labour,2011-12,gift,2011-07-25,3657.0,False,Donor: Virgin Media,
 428,"Miller, Andrew",Labour,2011-12,oversees_visit,2010-10-18,1200.0,False,"Donor: Nominet, the .uk Domain Registry",

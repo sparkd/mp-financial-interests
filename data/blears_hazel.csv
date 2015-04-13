@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 456,"Blears, Hazel",Labour,2014-15,employment,2014-01-25,75.0,False,"Payments from ComRes, 4 Millbank, London SW1P 3JA:","15 January 2014, £75 for opinion survey. Hours: 15 mins. (Registered 25 January 2014)"
 456,"Blears, Hazel",Labour,2014-15,employment,2014-07-02,75.0,False,"Payments from ComRes, 4 Millbank, London SW1P 3JA:","6 June 2014, £75 for opinion survey. Hours: 15 mins. (Registered 2 July 2014)"
 456,"Blears, Hazel",Labour,2014-15,employment,2014-10-15,75.0,False,"Payments from ComRes, 4 Millbank, London SW1P 3JA:","1 October 2014, £75 for opinion survey. Hours: 15 mins. (Registered 15 October 2014)"

@@ -1,3 +1,4 @@
+id,list_name,party,session,type,date,value,donated_to_charity,description,sub_entry
 478,"Field, Frank",Labour,2014-15,employment,2014-01-16,300.0,False,"Payments from The Times newspaper, 3 Thomas More Square, London E98 1XY:","16 December 2013, payment of £300 for an article. (Registered 16 January 2014)"
 478,"Field, Frank",Labour,2014-15,employment,2014-02-24,100.0,False,"11 January 2014, payment of £100 from The Tablet, 1 Kings Street Cloisters, Clifton Walk, London W6 0FY, for writing an article. (Registered 24 February 2014)",
 478,"Field, Frank",Labour,2014-15,employment,2014-02-26,150.0,False,"3 March 2014, payment of £150 from BBC Contributor Payments, PO Box 480, Manchester M14 0EL, for appearance on ‘Any Questions’ on 21 February 2014.  (Registered 26 February 2014)",
