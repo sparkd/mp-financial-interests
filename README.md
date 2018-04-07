@@ -3,7 +3,7 @@
 
 CSV dataset extracted from the UK House of Commons Register of Members' Financial Interests http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm
 
-The data is available as CSV file: https://github.com/sparkd/mp-financial-interests/tree/master/data/financial-interests.csv (created 7th April 2018).
+The data is available as CSV file: https://github.com/sparkd/mp-financial-interests/tree/master/data/financial-interests-2010-18.csv (created 7th April 2018).
 
 Data extracted:
 
