@@ -3,7 +3,9 @@
 
 CSV dataset extracted from the UK House of Commons Register of Members' Financial Interests http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm
 
-Fields extracted:
+The data is available as CSV file: https://github.com/sparkd/mp-financial-interests/tree/master/data/financial-interests.csv, parsed on 7th April 2018.
+
+Data extracted:
 
 | Field        | Description | 
 | ------------ |-------------| 
@@ -15,8 +17,5 @@ Fields extracted:
 | Description  | Full description of the interest, extracted directly from register. |
 | Session      | The parliamentary session the interest is included in - e.g. 2010-12; 2015-16 |
 
-The data is available as:
-* CSV file: https://github.com/sparkd/mp-financial-interests/tree/master/data/financial-interests.csv
 
-
-The scripts used to create this dataset is available at: 
+The script used to create this dataset is available at: [https://github.com/benscott/mp-financial-interests](https://github.com/benscott/mp-financial-interests)
